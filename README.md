@@ -109,9 +109,6 @@ The model was trained on a sample of the Deepfake Detection Challenge dataset fr
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 - TensorFlow and Keras for the deep learning framework
 - React and Vite for the frontend framework
