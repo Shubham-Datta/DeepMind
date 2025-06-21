@@ -98,6 +98,11 @@ The frontend development server will start on http://localhost:5173
 5. View the results on the gauge chart
 6. Check your detection history in the dashboard
 
+## Demonstration
+![Screenshot (243)](https://github.com/user-attachments/assets/8e5ef481-2234-4518-8e0f-82b4de8c6a93)
+![Screenshot (241)](https://github.com/user-attachments/assets/d0564c99-6ae3-4fc2-a539-6ebd58ca76b4)
+
+
 ## Model Architecture
 The deepfake detection model uses a hybrid architecture:
 - **Feature Extraction**: EfficientNetB6 CNN pre-trained on ImageNet
