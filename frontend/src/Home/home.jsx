@@ -276,7 +276,7 @@ export default function Home() {
       </main>
 
       <footer className="footer">
-        <p>© 2025 DeepMind. All rights reserved.</p>
+        <p>© 2024 DeepMind. All rights reserved.</p>
         <nav className="footer-nav">
           <a href="#">Home</a>
           <a href="#">Pricing</a>
